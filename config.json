@@ -1,0 +1,106 @@
+{
+  "company": {
+    "name": "CAMLIBEL",
+    "tagline": "Heavy Transportation",
+    "fullName": "Camlibel Heavy Transportation",
+    "foundedYear": 1998,
+    "experience": 25
+  },
+  "contact": {
+    "address": "Organize Sanayi Bölgesi, 41400 Gebze / Kocaeli",
+    "phone": "+90 262 XXX XX XX",
+    "email": "info@camlibeltransport.com",
+    "workingHours": {
+      "emergency": "7/24 Acil Servis",
+      "regular": "Hafta içi: 08:00 - 18:00"
+    }
+  },
+  "services": [
+    {
+      "id": "heavy-machinery",
+      "title": "Ağır Makine Nakliyesi",
+      "description": "Endüstriyel makineler, pres makineleri, CNC tezgahları ve büyük üretim ekipmanlarının profesyonel taşınması.",
+      "icon": "fas fa-truck"
+    },
+    {
+      "id": "industrial",
+      "title": "Endüstriyel Taşımacılık",
+      "description": "Fabrika relokasyonu, üretim hattı taşıması ve endüstriyel ekipman nakli hizmetleri.",
+      "icon": "fas fa-industry"
+    },
+    {
+      "id": "special-project",
+      "title": "Özel Proje Nakliyesi",
+      "description": "Büyük boyutlu ve ağır yükler için özel çözümler ve proje bazlı taşımacılık hizmetleri.",
+      "icon": "fas fa-shipping-fast"
+    },
+    {
+      "id": "assembly",
+      "title": "Montaj ve Kurulum",
+      "description": "Taşınan makinelerin yerine montajı, kurulumu ve devreye alma desteği.",
+      "icon": "fas fa-tools"
+    },
+    {
+      "id": "international",
+      "title": "Uluslararası Nakliye",
+      "description": "Avrupa ve Orta Doğu ülkelerine ağır yük taşımacılığı ve gümrük işlemleri.",
+      "icon": "fas fa-globe"
+    },
+    {
+      "id": "insurance",
+      "title": "Sigorta ve Güvenlik",
+      "description": "Tam kapsamlı sigorta ile güvenli taşımacılık ve risk yönetimi hizmetleri.",
+      "icon": "fas fa-shield-alt"
+    }
+  ],
+  "fleet": [
+    {
+      "name": "Lowboy Treylerler",
+      "capacity": "80 ton kapasiteye kadar ağır makine taşımacılığı",
+      "features": [
+        "2-6 dingil seçenekleri",
+        "Hidrolik yönlendirme sistemi",
+        "Genişletilebilir platform"
+      ],
+      "image": "images/lowboy-trailer.jpg"
+    },
+    {
+      "name": "Vinçli Kamyonlar",
+      "capacity": "50 ton kapasiteye kadar kaldırma gücü",
+      "features": [
+        "Teleskopik boom sistemi",
+        "Hassas pozisyonlama",
+        "Güvenlik sertifikaları"
+      ],
+      "image": "images/crane-truck.jpg"
+    },
+    {
+      "name": "Platform Kamyonlar",
+      "capacity": "Standart ağır yük taşımacılığı",
+      "features": [
+        "25 ton taşıma kapasitesi",
+        "Bağlama ekipmanları",
+        "Branda sistemi"
+      ],
+      "image": "images/flatbed-truck.jpg"
+    }
+  ],
+  "statistics": {
+    "projects": "500+",
+    "experience": "25+",
+    "fleet": "50+",
+    "satisfaction": "100%"
+  },
+  "socialMedia": {
+    "facebook": "#",
+    "linkedin": "#",
+    "instagram": "#",
+    "twitter": "#"
+  },
+  "colors": {
+    "primary": "#e74c3c",
+    "secondary": "#2c3e50",
+    "accent": "#6c757d",
+    "background": "#f8f9fa"
+  }
+}
